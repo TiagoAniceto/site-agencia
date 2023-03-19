@@ -152,7 +152,7 @@ The footer works in a similar way. It assumes each element in the array has a he
 ```json
 "footerLinks": [
     {
-      "subTitle": "Label of the column in the footer",
+      "subTitle": "viagem",
       "links": [
         {
           "text": "Text to display to the user",
